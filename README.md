@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=C5ng's%20Profile&fontSize=50)
 
-<center>
 <h3 align="center">Introduce ❗️</h3>
     <p align="center"> 
     반갑습니다. 😎 <br>
@@ -21,8 +20,9 @@
     </p>
 
 <h3 align="center">Study 📖 </h3>
-
-[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj={kongdp})](https://solved.ac/{kongdp})
+<center>
+ <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj={kongdp}" alt="Solved.ac프로필">
+</center>
 
 
 <h3 align="center">Contact Me 🔥</h3>
@@ -30,4 +30,3 @@
         <a href="https://www.instagram.com/c_5ng"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/c_5ng"/></a>&nbsp 
         <a href="mailto:c5ngdp@gmai.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?style=flat-square&logo=gmail&logoColor=white&link=mailto:c5ngdp@gmai.com"/></a>&nbsp 
     </p>
-</center>
