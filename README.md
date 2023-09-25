@@ -21,7 +21,7 @@
 
 <h3 align="center">Study 📖 </h3>
 <p align="center">
- <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj={kongdp}" alt="Solved.ac프로필">
+ <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=kongdp" alt="Solved.ac프로필">
 </p>
 
 
