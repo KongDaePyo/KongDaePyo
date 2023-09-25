@@ -1,30 +1,33 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=C5ng's%20Profile&fontSize=50)
 
-
+<center>
 <h3 align="center">Introduce ❗️</h3>
     <p align="center"> 
     반갑습니다. 😎 <br>
-    소통을 좋아하는 주니어 백엔드 개발자 공대표입니다.
+    소통하는 개발자 공대표입니다.
     </p>
 
 <h3 align="center">Skills 📖 </h3>
     <p align="center">
-    <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
-    <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
-    <br>
-    <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
-    <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>&nbsp
-    <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"></a>&nbsp
-    <br>
-    <img src="https://img.shields.io/badge/MySQL-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/></a>&nbsp 
+        <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
+        <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
+        <br>
+        <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
+        <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>&nbsp
+        <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"></a>&nbsp
+        <br>
+        <img src="https://img.shields.io/badge/MySQL-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/></a>&nbsp 
     </p>
 
-### Study 📝
-[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=kongdp)](https://github.com/mazassumnida/mazassumnida)
+<h3 align="center">Study 📖 </h3>
+
+[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj={kongdp})](https://solved.ac/{kongdp})
+
 
 <h3 align="center">Contact Me 🔥</h3>
-    <a href="https://www.instagram.com/c_5ng"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/c_5ng"/></a>&nbsp 
-    <a href="mailto:c5ngdp@gmai.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?style=flat-square&logo=gmail&logoColor=white&link=mailto:c5ngdp@gmai.com"/></a>&nbsp 
-     
-
+    <p align="center">
+        <a href="https://www.instagram.com/c_5ng"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/c_5ng"/></a>&nbsp 
+        <a href="mailto:c5ngdp@gmai.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?style=flat-square&logo=gmail&logoColor=white&link=mailto:c5ngdp@gmai.com"/></a>&nbsp 
+    </p>
+</center>
