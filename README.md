@@ -20,9 +20,9 @@
     </p>
 
 <h3 align="center">Study 📖 </h3>
-<center>
+<p align="center">
  <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj={kongdp}" alt="Solved.ac프로필">
-</center>
+</p>
 
 
 <h3 align="center">Contact Me 🔥</h3>
