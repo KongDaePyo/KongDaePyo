@@ -1,14 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=C5ng's%20Profile&fontSize=50)
 
-<center>
 
-<h3>Introduce ❗️</h3>
+<h3 align="center">Introduce ❗️</h3>
     <p align="center"> 
     반갑습니다. 😎 <br>
     소통을 좋아하는 주니어 백엔드 개발자 공대표입니다.
     </p>
 
-<h3>Skills 📖 </h3>
+<h3 align="center">Skills 📖 </h3>
     <p align="center">
     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
@@ -24,10 +23,8 @@
 ### Study 📝
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=kongdp)](https://github.com/mazassumnida/mazassumnida)
 
-<h3>Contact Me 🔥</h3>
+<h3 align="center">Contact Me 🔥</h3>
     <a href="https://www.instagram.com/c_5ng"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/c_5ng"/></a>&nbsp 
     <a href="mailto:c5ngdp@gmai.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?style=flat-square&logo=gmail&logoColor=white&link=mailto:c5ngdp@gmai.com"/></a>&nbsp 
-    
-
-</center>  
+     
 
