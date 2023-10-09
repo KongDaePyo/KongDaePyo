@@ -2,8 +2,8 @@
 
 <h3 align="center">Introduce ❗️</h3>
     <p align="center"> 
-    반갑습니다. 😎 <br>
-    소통하는 개발자 공대표입니다.
+    반갑구리 😎 <br>
+
     </p>
 
 <h3 align="center">Skills 📖 </h3>
